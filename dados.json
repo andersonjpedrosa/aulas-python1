@@ -1,0 +1,17 @@
+{
+    "id": 1001,
+    "nome": "Anderson de Jesus Pedrosa",
+    "idade": 38,
+    "email": "andersonjpedrosa@gmail.com",
+    "cidade": "Diadema",
+    "estado": "SP",
+    "profissao": "Designer",
+    "trabalha": false,
+    "LinkedIn": "https://www.linkedin.com/in/andersonjpedrosa",
+    "disciplinas": [
+        "Ilustração",
+        "Diagramação",
+        "Pintura Digital"
+    ],
+    "rede_social": "@andersonjpart"
+}
